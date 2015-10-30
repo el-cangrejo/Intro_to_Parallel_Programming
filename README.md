@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 cs344
 =====
 
@@ -22,3 +23,8 @@ cmake ..
 make
 ```
 
+=======
+# Intro_to_Parallel_Programming
+
+Udacity course
+>>>>>>> fe78a24d9b10b22334f4dc1d0a54c04d43bbce80
